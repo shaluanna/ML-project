@@ -35,6 +35,8 @@ This project builds loan eligibility prediction system using Amazon SageMaker fo
 
 •	SNS automatically sends an email notification to subscribed users with the loan approval status.
 
+![email](email_scr.png)
+
 # Conclusion
 
 Project demonstrates the power of machine learning and cloud automation using Amazon SageMaker to train and deploy a predictive model. It seamlessly integrates with AWS API Gateway, Lambda, and SNS to provide real-time predictions and automated notifications.
